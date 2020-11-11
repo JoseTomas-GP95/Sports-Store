@@ -1,0 +1,12 @@
+.containerppp {
+    position: relative;
+    left: 30%;
+    top: 10%;
+}
+
+.containerppp input {
+    border-color: grey;
+}
+.containerppp ::-webkit-input-placeholder {
+    color: rgb(87, 82, 82);
+}
