@@ -1,2 +1,2 @@
-# Sports-Store
+# SportsStore
 E-commerce con tematica deportiva 
